@@ -1,0 +1,16 @@
+"#base"		"base_active.res"
+"resource/ui/build_menu/tele_exit_active.res"
+{
+	"ItemNameLabel"
+	{
+		"LabelText"		"#TF_Object_Tele_Exit_360"
+	}
+	"BuildingImage"
+	{
+		"LabelText"		"y"
+	}
+	"NumberLabel"
+	{
+		"LabelText"		"4"
+	}
+}
