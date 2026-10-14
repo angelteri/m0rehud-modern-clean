@@ -1743,6 +1743,26 @@
 				"dropshadow"		"1"
 			}
 		}
+		"TargetID_Minmode"
+		{
+			"1"
+			{
+				"name"				"surface_medium"
+				"Tall"				"10"
+				"antialias"			"1"
+				"dropshadow"		"1"
+			}
+		}
+		"TargetID_Big_Minmode"
+		{
+			"1"
+			{
+				"name"				"surface_medium"
+				"Tall"				"14"
+				"antialias"			"1"
+				"dropshadow"		"1"
+			}
+		}
 		"TargetIDIcons"
 		{
 			"1"
@@ -1759,6 +1779,26 @@
 			{
 				"name"				"surface_uber_icons"
 				"Tall"				"18"
+				"antialias"			"1"
+				"dropshadow"		"1"
+			}
+		}
+		"TargetIDIcons_Minmode"
+		{
+			"1"
+			{
+				"name"				"surface_uber_icons"
+				"Tall"				"10"
+				"antialias"			"1"
+				"dropshadow"		"1"
+			}
+		}
+		"TargetIDIcons_Big_Minmode"
+		{
+			"1"
+			{
+				"name"				"surface_uber_icons"
+				"Tall"				"14"
 				"antialias"			"1"
 				"dropshadow"		"1"
 			}
