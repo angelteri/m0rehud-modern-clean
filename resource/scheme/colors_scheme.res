@@ -8,10 +8,12 @@
 		// HEALTH
 		//----------------------------------------------------------------------------------
 		"Health_Numbers"							"255 255 255 255"
+		"Health_Buff"								"0 185 0 255"
 		"Health_Shadow_Buff"						"0 185 0 255"
 		"Health_Buff_Target"						"0 215 0 255"
 		"Health_Buff_Spectator"						"0 215 0 255"
 		"Health_Buff_Killer"						"0 215 0 255"
+		"Health_Hurt"								"255 0 0 255"
 		"Health_Shadow_Hurt"						"255 0 0 255"
 		"Health_Hurt_Target"						"255 255 255 255"
 		"Health_Hurt_Spectator"						"255 0 0 255"
@@ -21,7 +23,9 @@
 		//----------------------------------------------------------------------------------
 		"Ammo_In_Clip"								"255 255 255 255"
 		"Ammo_In_Reserve"							"255 255 255 255"
+		"Ammo_In_Clip_Low"							"255 0 0 255"
 		"Ammo_In_Clip_Shadow_Low"					"255 0 0 255"
+		"Ammo_In_Reserve_Low"						"255 0 0 255"
 		"Ammo_In_Reserve_Shadow_Low"				"255 0 0 255"
 		//----------------------------------------------------------------------------------
 		// UBER
