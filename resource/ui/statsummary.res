@@ -11,27 +11,6 @@
 		"Visible"			"1"
 		"Enabled"			"1"
 	}
-	//=====================================================================================
-	// CUSTOM BACKGROUND IMAGE
-	//-------------------------------------------------------------------------------------
-	// Check out the dedicated wiki page on how to enable custom backgrounds
-	// https://github.com/Hypnootize/m0rehud/wiki/LOADING-SCREEN
-	//=====================================================================================
-	"CustomBackground"
-	{
-		"ControlName"		"ImagePanel"
-		"FieldName"			"CustomBackground"
-		"XPos"				"0"
-		"YPos"				"0"
-		"ZPos"				"2"
-		"Wide"				"f0"
-		"Tall"				"f0"
-		"Visible"			"0"
-		"Enabled"			"1"
-		"Image"				"replay/thumbnails/menu/loading_bg"
-		"ScaleImage"		"1"
-	}
-	//=====================================================================================
 	"SolidBackground"
 	{
 		"ControlName"		"ImagePanel"
