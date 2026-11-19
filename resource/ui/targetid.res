@@ -108,7 +108,7 @@
 		"ControlName"		"EditablePanel"
 		"FieldName"			"KillStreakAnchor"
 		"XPos"				"112"
-		"YPos"				"1"
+		"YPos"				"11+1"
 		"Wide"				"8"
 		"Tall"				"8"
 		"Visible"			"1"
