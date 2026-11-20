@@ -1668,42 +1668,6 @@
 		"Enabled"			"1"
 		"Image"				"../sprites/obj_icons/icon_obj_blu_mannhattan_locked"
 	}
-	"CPCapBlu"
-	{
-		"ControlName"		"ImagePanel"
-		"FieldName"			"CPCapBlu"
-		"XPos"				"9999"
-		"Visible"			"1"
-		"Enabled"			"1"
-		"Image"				"../sprites/obj_icons/icon_obj_cap_blu"
-	}
-	"CPCapBluUp"
-	{
-		"ControlName"		"ImagePanel"
-		"FieldName"			"CPCapBluUp"
-		"XPos"				"9999"
-		"Visible"			"1"
-		"Enabled"			"1"
-		"Image"				"../sprites/obj_icons/icon_obj_cap_blu_up"
-	}
-	"CPCapRed"
-	{
-		"ControlName"		"ImagePanel"
-		"FieldName"			"CPCapRed"
-		"XPos"				"9999"
-		"Visible"			"1"
-		"Enabled"			"1"
-		"Image"				"../sprites/obj_icons/icon_obj_cap_red"
-	}
-	"CPCapRedUp"
-	{
-		"ControlName"		"ImagePanel"
-		"FieldName"			"CPCapRedUp"
-		"XPos"				"9999"
-		"Visible"			"1"
-		"Enabled"			"1"
-		"Image"				"../sprites/obj_icons/icon_obj_cap_red_up"
-	}
 	//===================================================================================================
 	// TEXTURE PRELOAD - PAYLOAD ICONS
 	//===================================================================================================
