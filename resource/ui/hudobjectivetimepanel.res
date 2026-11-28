@@ -1,6 +1,6 @@
 "resource/ui/hudobjectivetimepanel.res"
 {
-	"BG"
+	"BG"	// SetupBG can't even use those images so use this for BGs instead
 	{
 		"ControlName"		"CTFImagePanel"
 		"FieldName"			"BG"
@@ -8,7 +8,7 @@
 		"YPos"				"0"
 		"ZPos"				"2"
 		"Wide"				"f0"
-		"Tall"				"15"
+		"Tall"				"0"
 		"Visible"			"1"
 		"Enabled"			"1"
 		"Image"				"replay/thumbnails/panels/flat_blue"
