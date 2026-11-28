@@ -1,6 +1,6 @@
 "resource/ui/hudobjectivetimepanel.res"
 {
-	"BG"	// SetupBG can't even use those images so use this for BGs instead
+	"BG"	// SetupBG returns to it's original images after a reload so use this for BGs instead
 	{
 		"ControlName"		"CTFImagePanel"
 		"FieldName"			"BG"
