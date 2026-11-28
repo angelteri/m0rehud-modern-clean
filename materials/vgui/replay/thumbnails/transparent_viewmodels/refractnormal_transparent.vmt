@@ -1,6 +1,6 @@
 "Refract"
 {
-	"$normalmap"			"vgui/replay/thumbnails/transparent_viewmodels/REFRACTnormal_transparent"
+	"$normalmap"			"vgui/replay/thumbnails/transparent_viewmodels/refractnormal_transparent"
 	"$refractamount"		"0.0"
 	"$refracttint"			"{255 255 255}"
 	"$refractblur"			"0.0"
