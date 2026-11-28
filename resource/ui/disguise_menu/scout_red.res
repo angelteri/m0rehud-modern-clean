@@ -12,11 +12,7 @@
 		"Visible"					"1"
 		"Enabled"					"1"
 		"ProportionalToParent"		"1"
-		"Image"						"../hud/color_panel_red"
-		"src_corner_height"			"15"
-		"src_corner_width"			"15"
-		"draw_corner_width"			"0"
-		"draw_corner_height"		"0"
+		"Image"						"replay/thumbnails/panels/flat_red"
 	}
 	"NumberLabelBg"
 	{
