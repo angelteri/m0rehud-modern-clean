@@ -1,23 +1,20 @@
 "resource/ui/hudobjectivetimepanel.res"
 {
-	"TimePanelBG"
+	"BG"
 	{
-		"ControlName"				"CTFImagePanel"
-		"FieldName"					"TimePanelBG"
-		"XPos"						"cs-0.5"
-		"YPos"						"0"
-		"ZPos"						"2"
-		"Wide"						"f0"
-		"Tall"						"0"
-		"Visible"					"1"
-		"Enabled"					"1"
-		"ProportionalToParent"		"1"
-		"Image"						"../hud/color_panel_blu"
-		"ScaleImage"				"1"
-		"src_corner_height"			"10"
-		"src_corner_width"			"10"
-		"draw_corner_width"			"0"
-		"draw_corner_height"		"0"
+		"ControlName"		"CTFImagePanel"
+		"FieldName"			"BG"
+		"XPos"				"cs-0.5"
+		"YPos"				"0"
+		"ZPos"				"2"
+		"Wide"				"f0"
+		"Tall"				"15"
+		"Visible"			"1"
+		"Enabled"			"1"
+		"Image"				"replay/thumbnails/panels/flat_blue"
+		"teambg_2"			"replay/thumbnails/panels/flat_red"
+		"teambg_3"			"replay/thumbnails/panels/flat_blue"
+		"Alpha"				"200"
 		"if_match"
 		{
 			"Wide"		"f0"
@@ -65,6 +62,17 @@
 	//==================================================================================================================================================
 	// REMOVED ELEMENTS
 	//==================================================================================================================================================
+	"TimePanelBG"
+	{
+		"ControlName"		"CTFImagePanel"
+		"FieldName"			"TimePanelBG"
+		"XPos"				"9999"
+		"YPos"				"9999"
+		"Wide"				"0"
+		"Tall"				"0"
+		"Visible"			"0"
+		"Enabled"			"0"
+	}	
 	"TimePanelProgressBar"
 	{
 		"ControlName"		"CTFProgressBar"
