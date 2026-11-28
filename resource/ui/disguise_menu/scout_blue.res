@@ -3,6 +3,6 @@
 {
 	"TitleBG"
 	{
-		"Image"		"replay/thumbnails/panels/flat_blu"
+		"Image"		"replay/thumbnails/panels/flat_blue"
 	}
 }
