@@ -1875,4 +1875,25 @@
 		"Enabled"			"1"
 		"Image"				"../vgui/maps/menu_thumb_missing"
 	}
+	//===================================================================================================
+	// TEXTURE PRELOAD - HUD PANELS
+	//===================================================================================================
+	"ColorPanelBlu"
+	{
+		"ControlName"		"ImagePanel"
+		"FieldName"			"ColorPanelBlu"
+		"XPos"				"9999"
+		"Visible"			"1"
+		"Enabled"			"1"
+		"Image"				"../hud/color_panel_blu"
+	}
+	"ColorPanelRed"
+	{
+		"ControlName"		"ImagePanel"
+		"FieldName"			"ColorPanelRed"
+		"XPos"				"9999"
+		"Visible"			"1"
+		"Enabled"			"1"
+		"Image"				"../hud/color_panel_red"
+	}
 }
