@@ -3,6 +3,6 @@
 {
 	"TitleBG"
 	{
-		"Image"		"../hud/color_panel_blu"
+		"Image"		"replay/thumbnails/panels/flat_blu"
 	}
 }
